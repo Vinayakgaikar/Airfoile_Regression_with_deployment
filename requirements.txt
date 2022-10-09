@@ -1,0 +1,13 @@
+flask
+requests
+jsonify
+sklearn
+gunicorn
+jinja2
+werkzeug
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pickle
