@@ -10,4 +10,3 @@ pandas
 scipy
 scikit-learn
 matplotlib
-pickle
